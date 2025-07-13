@@ -16,7 +16,7 @@ let g:colors_name = "oldbook"
 " --- Palette ---
 " Inspired by aged paper and various shades of faded ink.
 " Main background (Neutral Beige Paper)
-let s:paper         = "#fbf4e8"  " or #fcf5e6
+let s:paper         = "#fcf5e6"  " or #fbf4e8
 let s:ink           = "#585040"  " Main foreground (Standard Ink)
 let s:light_ink     = "#9a8f7d"  " Lighter text for comments, line numbers (Faded Ink)
 
@@ -28,7 +28,7 @@ let s:literal_ink   = "#72785b"  " Earthy, faded green for strings & numbers
 " UI colors
 let s:selection     = "#e4d8bA"  " A subtle, low-contrast selection color
 " A barely-there line highlight for the new paper
-let s:line_hl       = "#f2ebe1" " or #f3ece1
+let s:line_hl       = "#f3ece1" " or #f2ebe1
 let s:error_curl    = "#c48484"  " A muted red for error underlining
 
 
