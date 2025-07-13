@@ -23,4 +23,7 @@ palette = 3=#70553a
 palette = 4=#5e6a75   
 # Magenta (Muted Purple/Brown)
 palette = 5=#8c6f83   
-# Cyan
+# Cyan    (Desaturated Cyan/Slate)
+palette = 6=#6a7d89 
+# White   (Faded Ink)
+palette = 7=#9a8f7d
