@@ -136,7 +136,7 @@ call s:HL("TelescopeNormal", s:ink, s:line_hl, "NONE", "NONE")
 " Other
 call s:HL("Identifier", s:ink, "NONE", "NONE", "NONE") " Standard ink for variables
 call s:HL("PreProc", s:light_ink, "NONE", "NONE", "NONE")
-call s:HL("Special", s:keyword_ink, "NONE", "italic", "NONE")
+call s:HL("Special", s:keyword_ink, "NONE", "NONE", "NONE")
 call s:HL("Underlined", s:ink, "NONE", "underline", "NONE")
 
 " Errors and Diffs
