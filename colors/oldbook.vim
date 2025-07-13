@@ -129,6 +129,10 @@ hi! link Number Constant
 hi! link Boolean Constant
 hi! link Float Constant
 
+" Floats
+call s:HL("NormalFloat", s:ink, s:line_hl, "NONE", "NONE")
+call s:HL("TelescopeNormal", s:ink, s:line_hl, "NONE", "NONE")
+
 " Other
 call s:HL("Identifier", s:ink, "NONE", "NONE", "NONE") " Standard ink for variables
 call s:HL("PreProc", s:light_ink, "NONE", "NONE", "NONE")
