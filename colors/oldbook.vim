@@ -71,6 +71,7 @@ call s:HL("ColorColumn", "NONE", s:line_hl, "NONE", "NONE")
 " Gutters and Splits
 call s:HL("LineNr", s:light_ink, s:paper, "NONE", "NONE")
 call s:HL("CursorLineNr", s:ink, s:line_hl, "bold", "NONE")
+call s:HL("CursorLineSign", s:ink, s:line_hl, "bold", "NONE")
 call s:HL("SignColumn", s:light_ink, s:paper, "NONE", "NONE")
 call s:HL("Folded", s:light_ink, s:line_hl, "italic", "NONE")
 call s:HL("FoldColumn", s:light_ink, s:paper, "NONE", "NONE")
