@@ -1,0 +1,22 @@
+{
+    "name": "oldbook-theme",
+    "displayName": "Old Book",
+    "description": "A warm, minimalist theme inspired by aged books.",
+    "version": "1.4.0",
+    "publisher": "local",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Old Book",
+                "uiTheme": "vs",
+                "path": "./themes/oldbook-color-theme.json"
+            }
+        ]
+    }
+}
