@@ -3,7 +3,7 @@
 # Based on the oldbook.vim colorscheme, using the correct Ghostty config format.
 
 # Core UI Colors
-background           = #fbf4e8
+background           = #fcf5e6
 foreground           = #585040
 cursor-color         = #585040
 selection-background = #e4d8bA
@@ -14,16 +14,34 @@ selection-foreground = #585040
 # Black   (Standard Ink)
 palette = 0=#585040
 # Red     (Muted Red for errors)
-palette = 1=#c48484 
+palette = 1=#c48484
 # Green   (Earthy Green for strings/literals)
 palette = 2=#72785b
 # Yellow  (Warm Sepia for keywords)
-palette = 3=#70553a   
+palette = 3=#70553a
 # Blue    (Cool Slate for functions)
-palette = 4=#5e6a75   
+palette = 4=#5e6a75
 # Magenta (Muted Purple/Brown)
-palette = 5=#8c6f83   
+palette = 5=#8c6f83
 # Cyan    (Desaturated Cyan/Slate)
-palette = 6=#6a7d89 
+palette = 6=#6a7d89
 # White   (Faded Ink)
 palette = 7=#9a8f7d
+
+# Bright ANSI Colors
+# Bright Black   (Faded Ink)
+palette = 8=#9a8f7d
+# Bright Red     (Lighter Muted Red)
+palette = 9=#d49494
+# Bright Green   (Lighter Earthy Green)
+palette = 10=#82886b
+# Bright Yellow  (Lighter Sepia)
+palette = 11=#80654a
+# Bright Blue    (Lighter Slate)
+palette = 12=#6e7a85
+# Bright Magenta (Lighter Muted Purple)
+palette = 13=#9c7f93
+# Bright Cyan    (Lighter Desaturated Cyan)
+palette = 14=#7a8d99
+# Bright White   (The "line highlight" color)
+palette = 15=#f3ece1
