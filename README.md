@@ -2,6 +2,8 @@
 
 A Vim colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
 
+![screenshot](/screenshot.png)
+
 ## Installation
 
 You can install this theme using your favorite Vim plugin manager.
