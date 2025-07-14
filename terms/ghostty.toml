@@ -1,6 +1,5 @@
 # Ghostty Theme: Old Book
 # Description: A theme inspired by the soft, warm tones of an aged book.
-# Based on the oldbook.vim colorscheme, using the correct Ghostty config format.
 
 # Core UI Colors
 background           = #fcf5e6
