@@ -11,7 +11,7 @@ You can install this theme using your favorite Vim plugin manager.
 **vim-plug**
 
 ```vim
-Plug 'gko/oldbook.vim'
+Plug 'gko/oldbook-theme'
 ```
 
 **Manual Installation**
