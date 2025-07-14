@@ -33,4 +33,4 @@ colorscheme oldbook
 
 ## Contributing
 
-**vscode** theme is still WIP, so contributions are welcome.
+**vscode** [theme](/themes/oldbook-color-theme.json) is still WIP, so contributions are welcome.
