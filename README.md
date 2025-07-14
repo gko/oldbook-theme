@@ -1,4 +1,4 @@
-# Oldbook.vim
+# Oldbook theme
 
 A Vim colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
 
