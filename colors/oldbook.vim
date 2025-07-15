@@ -23,7 +23,7 @@ let s:function_ink  = "#5e6a75"  " Cool, slate ink for functions & types
 let s:literal_ink   = "#72785b"  " Earthy, faded green for strings & numbers
 
 " UI colors
-let s:selection     = "#e4d8bA"  " A subtle, low-contrast selection color
+let s:selection     = "#e4d8ba"  " A subtle, low-contrast selection color
 " A barely-there line highlight for the new paper
 let s:line_hl       = "#f0e8d9" " #f3ece1 or #f2ebe1
 let s:popup_bg      = "#ede4d2"
@@ -92,6 +92,8 @@ call s:HL("Pmenu", s:ink, s:line_hl, "NONE", "NONE")
 call s:HL("PmenuSel", s:ink, s:selection, "bold", "NONE")
 call s:HL("PmenuSbar", "NONE", s:line_hl, "NONE", "NONE")
 call s:HL("PmenuThumb", "NONE", s:selection, "NONE", "NONE")
+call s:HL("NormalFloat", s:ink, s:popup_bg, "NONE", "NONE")
+call s:HL("TelescopeNormal", s:ink, s:popup_bg, "NONE", "NONE")
 
 " General
 call s:HL("Directory", s:keyword_ink, "NONE", "bold", "NONE")
@@ -120,6 +122,8 @@ hi! link Label Statement
 
 " Functions and Types (cool, slate ink)
 call s:HL("Function", s:function_ink, "NONE", "NONE", "NONE")
+" call s:HL("Delimiter", s:function_ink, "NONE", "NONE", "NONE")
+
 call s:HL("Type", s:function_ink, "NONE", "italic", "NONE")
 hi! link StorageClass Type
 hi! link Structure Type
@@ -132,10 +136,6 @@ hi! link Character Constant
 hi! link Number Constant
 hi! link Boolean Constant
 hi! link Float Constant
-
-" Floats
-call s:HL("NormalFloat", s:ink, s:popup_bg, "NONE", "NONE")
-call s:HL("TelescopeNormal", s:ink, s:popup_bg, "NONE", "NONE")
 
 " Other
 call s:HL("Identifier", s:ink, "NONE", "NONE", "NONE") " Standard ink for variables
