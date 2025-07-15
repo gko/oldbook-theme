@@ -3,12 +3,29 @@
     "displayName": "Old Book",
     "description": "A warm, minimalist theme inspired by aged books.",
     "version": "1.4.0",
-    "publisher": "local",
+    "publisher": "konstantin",
     "engines": {
         "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#fcf5e6",
+        "theme": "light"
+    },
+    "icon": "icon.png",
+    "author": {
+        "email": "mail@konstantin.io",
+        "name": "Konstantin Gorodinskiy"
+    },
+    "license": "GPL3",
+    "keywords": [
+        "theme",
+        "minimal",
+        "light",
+        "vintage",
+        "oldbook"
     ],
     "contributes": {
         "themes": [
@@ -18,5 +35,9 @@
                 "path": "./themes/oldbook-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gko/oldbook-theme.git"
     }
 }
