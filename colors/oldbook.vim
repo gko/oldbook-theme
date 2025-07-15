@@ -1,8 +1,5 @@
 " Vim Colorscheme: oldbook
 " Maintainer: Konstantin Gorodinskii, Gemini
-" Version: 1.3
-" A theme inspired by the feel of aged books. Minimal, soft, and readable.
-" Version 1.3 adjusts the background from yellowish to a calmer, neutral beige.
 
 " --- Setup ---
 set background=light
@@ -29,6 +26,7 @@ let s:literal_ink   = "#72785b"  " Earthy, faded green for strings & numbers
 let s:selection     = "#e4d8bA"  " A subtle, low-contrast selection color
 " A barely-there line highlight for the new paper
 let s:line_hl       = "#f0e8d9" " #f3ece1 or #f2ebe1
+let s:popup_bg       = "#ede4d2"
 let s:error_curl    = "#c48484"  " A muted red for error underlining
 
 
@@ -131,8 +129,8 @@ hi! link Boolean Constant
 hi! link Float Constant
 
 " Floats
-call s:HL("NormalFloat", s:ink, s:line_hl, "NONE", "NONE")
-call s:HL("TelescopeNormal", s:ink, s:line_hl, "NONE", "NONE")
+call s:HL("NormalFloat", s:ink, s:popup_bg, "NONE", "NONE")
+call s:HL("TelescopeNormal", s:ink, s:popup_bg, "NONE", "NONE")
 
 " Other
 call s:HL("Identifier", s:ink, "NONE", "NONE", "NONE") " Standard ink for variables
