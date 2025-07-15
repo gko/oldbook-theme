@@ -26,7 +26,7 @@ let s:literal_ink   = "#72785b"  " Earthy, faded green for strings & numbers
 let s:selection     = "#e4d8bA"  " A subtle, low-contrast selection color
 " A barely-there line highlight for the new paper
 let s:line_hl       = "#f0e8d9" " #f3ece1 or #f2ebe1
-let s:popup_bg       = "#ede4d2"
+let s:popup_bg      = "#ede4d2"
 let s:error_curl    = "#c48484"  " A muted red for error underlining
 
 
