@@ -2,7 +2,12 @@
 
 A Vim colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
 
-![screenshot](/screenshot.png)
+### VSCODE
+
+![vscode](/screenshot-vscode.png)
+
+### VIM
+![vim](/screenshot.png)
 
 ## Installation
 
@@ -30,7 +35,3 @@ set background=light
 
 colorscheme oldbook
 ```
-
-## Contributing
-
-**vscode** [theme](/themes/oldbook-color-theme.json) is still WIP, so contributions are welcome.
