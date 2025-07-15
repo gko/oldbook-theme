@@ -45,9 +45,9 @@ function! s:HL(group, guifg, guibg, gui, guisp)
     let cmd .= " guibg=NONE"
   endif
   if a:gui != "" && a:gui != "NONE"
-    let cmd .= " gui=" . a:gui
+    let cmd .= " gui=" . a:gui . " cterm=" . a:gui . " term=" . a:gui
   else
-    let cmd .= " gui=NONE"
+    let cmd .= " gui=NONE cterm=NONE term=NONE"
   endif
   if a:guisp != "" && a:guisp != "NONE"
     let cmd .= " guisp=" . a:guisp
@@ -73,7 +73,12 @@ call s:HL("CursorLineSign", s:ink, s:line_hl, "bold", "NONE")
 call s:HL("SignColumn", s:light_ink, s:paper, "NONE", "NONE")
 call s:HL("Folded", s:light_ink, s:line_hl, "italic", "NONE")
 call s:HL("FoldColumn", s:light_ink, s:paper, "NONE", "NONE")
-call s:HL("VertSplit", s:light_ink, s:paper, "NONE", "NONE")
+
+if has('nvim')
+    call s:HL("VertSplit", s:light_ink, s:paper, "NONE", "NONE")
+else
+    call s:HL("VertSplit", s:paper, s:light_ink, "NONE", "NONE")
+endif
 
 " Status & Tab Line (like a book's header/footer)
 call s:HL("StatusLine", s:paper, s:ink, "NONE", "NONE")
