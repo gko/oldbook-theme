@@ -106,6 +106,8 @@
         "tab.activeBorderTop": "#00000000",
         "tab.unfocusedActiveBorderTop": "#00000000",
 
+        "editorLink.activeForeground": "#70553a",
+
         "titleBar.activeBackground": "#f0e8d9",
         "titleBar.activeForeground": "#585040",
         "titleBar.inactiveBackground": "#f0e8d9",
