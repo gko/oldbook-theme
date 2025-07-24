@@ -8,7 +8,7 @@ A Vim colorscheme inspired by the feel of aged books. Minimal, soft, and readabl
 
 ![vscode](/screenshot-vscode.jpg)
 
-### VIM
+### VIM / NVIM
 ![vim](/screenshot.jpg)
 
 ## Installation
