@@ -73,8 +73,19 @@
         "panelTitle.activeForeground": "#585040",
         "panelTitle.inactiveForeground": "#9a8f7d",
 
+        "peekView.border": "#9a8f7d",
+        "peekViewTitle.background": "#f0e8d9",
+        "peekViewTitleLabel.foreground": "#585040",
+        "peekViewTitleDescription.foreground": "#70553a",
+
         "peekViewResult.background": "#ede4d2",
         "peekViewResult.selectionBackground": "#e4d8bA",
+        "peekViewResult.selectionForeground": "#585040",
+        "peekViewResult.matchHighlightBackground": "#e4d8ba",
+
+        "peekViewEditor.background": "#fcf5e6",
+        "peekViewEditor.matchHighlightBackground": "#e4d8ba",
+        "peekViewEditorGutter.background": "#fcf5e6",
 
         "quickInput.background": "#ede4d2",
         "editorWidget.background": "#ede4d2",
