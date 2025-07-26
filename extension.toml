@@ -1,0 +1,7 @@
+id             = "oldbook"
+name           = "Old book"
+description    = "A colorscheme inspired by the feel of aged books. Minimal, soft, and readable."
+version        = "1.4.5"
+authors        = ["Konstantin Gorodinskii <mail@konstantin.io>"]
+repository     = "https://github.com/gko/oldbook-theme"
+schema_version = 1

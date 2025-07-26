@@ -2,7 +2,7 @@
 
 [![Install from VSCode Marketplace](https://img.shields.io/badge/Install%20from-VSCode%20Marketplace-9a8f7d?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=konstantin.oldbook-theme)
 
-A Vim colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
+A colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
 
 ### VSCODE
 
