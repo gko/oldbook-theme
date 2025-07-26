@@ -6,10 +6,10 @@ A colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
 
 ### VSCODE
 
-![vscode](/screenshot-vscode.jpg)
+![vscode](/images/screenshot-vscode.jpg)
 
 ### VIM / NVIM
-![vim](/screenshot.jpg)
+![vim](/images/screenshot.jpg)
 
 ## Installation
 
