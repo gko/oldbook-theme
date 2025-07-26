@@ -12,20 +12,13 @@
                 "border": "#9a8f7d60",
                 "border.variant": "#9a8f7d40",
                 "border.focused": "#9a8f7d80",
-                "element": {
-                    "background": "#f0e8d9",
-                    "hover": "#e4d8ba",
-                    "active": "#70553a",
-                    "selected": "#e4d8ba",
-                    "disabled": "#9a8f7d80"
-                },
-                "ghost_element": {
-                    "background": "#fcf5e6",
-                    "hover": "#f0e8d9",
-                    "active": "#e4d8ba",
-                    "selected": "#e4d8ba",
-                    "disabled": "#9a8f7d80"
-                },
+
+                "element.background": "#ede4d2",
+                "element.hover": "#d9ceb0",
+                "element.active": "#b5ab9c",
+                "element.selected": "#e4d8ba",
+                "element.disabled": "#9a8f7d80",
+
                 "text": "#585040",
                 "text.muted": "#9a8f7d",
                 "text.placeholder": "#9a8f7d",
@@ -36,9 +29,7 @@
                 "icon.disabled": "#9a8f7d80",
                 "icon.placeholder": "#9a8f7d",
                 "icon.accent": "#70553a",
-
                 "status_bar.background": "#f0e8d9",
-
                 "title_bar.background": "#f0e8d9",
                 "toolbar.background": "#f0e8d9",
                 "tab_bar.background": "#f0e8d9",
