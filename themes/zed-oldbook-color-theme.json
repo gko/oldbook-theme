@@ -1,3 +1,4 @@
+// https://zed.dev/schema/themes/v0.2.0.json
 {
     "name": "Oldbook",
     "author": "Konstantin Gorodinskii",
@@ -51,6 +52,7 @@
                 "editor.document_highlight.write_background": "#e4d8ba",
                 "panel.background": "#f0e8d9",
                 "pane.focused_border": "#9a8f7d60",
+                "panel.focused_border": "#9a8f7d60",
                 "error": "#c48484",
                 "warning": "#70553a",
                 "info": "#5e6a75",
