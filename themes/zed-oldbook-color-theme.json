@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-    "name": "Oldbook",
+    "name": "Old Book",
     "author": "Konstantin Gorodinskii <mail@konstantin.io>",
     "themes": [
         {
-            "name": "Oldbook",
+            "name": "Old Book",
             "appearance": "light",
             "style": {
                 "background": "#fcf5e6",
