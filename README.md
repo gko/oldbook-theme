@@ -33,14 +33,7 @@ Plug 'gko/oldbook-theme'
       * **Neovim:** `mkdir -p ~/.config/nvim/colors`
 2.  Copy `colors/oldbook.vim` into that directory.
 
-### ZED
-
-#### Install Manually
-
-1. Download [zed-oldbook-color-theme.json](./themes/zed-oldbook-color-theme.json)
-2. Put into `~/.config/zed/themes/`
-
-## Usage
+#### Usage
 
 To use the colorscheme, add the following line to your `vimrc` or `init.vim`:
 
@@ -49,3 +42,10 @@ set background=light
 
 colorscheme oldbook
 ```
+
+### ZED
+
+#### Install Manually
+
+1. Download [zed-oldbook-color-theme.json](./themes/zed-oldbook-color-theme.json)
+2. Put into `~/.config/zed/themes/`
