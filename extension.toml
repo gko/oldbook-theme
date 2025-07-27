@@ -1,5 +1,5 @@
-id             = "oldbook"
-name           = "Old book"
+id             = "oldbook-theme"
+name           = "Old Book"
 description    = "A colorscheme inspired by the feel of aged books. Minimal, soft, and readable."
 version        = "1.4.6"
 authors        = ["Konstantin Gorodinskii <mail@konstantin.io>"]
