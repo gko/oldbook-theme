@@ -63,7 +63,7 @@ endfunction
 call s:HL("Normal", s:ink, s:paper, "NONE", "NONE")
 call s:HL("Cursor", s:paper, s:ink, "NONE", "NONE")
 call s:HL("CursorLine", "NONE", s:line_hl, "NONE", "NONE")
-call s:HL("Visual", "NONE", s:selection, "NONE", "NONE")
+call s:HL("Visual", s:ink, s:selection, "NONE", "NONE")
 call s:HL("ColorColumn", "NONE", s:line_hl, "NONE", "NONE")
 
 " Gutters and Splits
