@@ -49,8 +49,8 @@
         "editorSuggestWidget.background": "#ede4d2",
         "editorSuggestWidget.selectedBackground": "#e4d8bA",
 
-        "editor.wordHighlightBackground": "#e4d8ba",
-        "editor.wordHighlightStrongBackground": "#e4d8ba",
+        "editor.wordHighlightBackground": "#e4d8ba85",
+        "editor.wordHighlightStrongBackground": "#e4d8ba75",
         "editor.wordHighlightBorder": "#e4d8ba",
         "editor.wordHighlightStrongBorder": "#e4d8ba",
 
