@@ -45,7 +45,14 @@ colorscheme oldbook
 
 ### ZED
 
-#### Install Manually
+#### From extensions
 
-1. Download [zed-oldbook-color-theme.json](./themes/zed-oldbook-color-theme.json)
+1. Open Zed.
+2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter _zed: extensions_.
+3. Search for the _Old book_ extension and install.
+4. Enter _theme selector: toggle_ in the command palette and select the Old book theme in the dropdown.
+
+#### Manually
+
+1. Download [oldbook-color-theme.json](./themes/oldbook-color-theme.json)
 2. Put into `~/.config/zed/themes/`
