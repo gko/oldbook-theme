@@ -32,7 +32,7 @@
             {
                 "label": "Old Book",
                 "uiTheme": "vs",
-                "path": "./themes/oldbook-color-theme.json"
+                "path": "./vscode-themes/oldbook-color-theme.json"
             }
         ]
     },
