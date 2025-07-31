@@ -2,7 +2,7 @@
     "name": "oldbook-theme",
     "displayName": "Old Book",
     "description": "A warm, minimalist theme inspired by aged books.",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "publisher": "konstantin",
     "engines": {
         "vscode": "^1.0.0"
