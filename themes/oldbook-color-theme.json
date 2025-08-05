@@ -96,7 +96,7 @@
                     "constant": {
                         "color": "#72785b"
                     },
-                    "constant.numeric": {
+                    "number": {
                         "color": "#72785b"
                     },
                     "constructor": {
