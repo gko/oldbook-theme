@@ -71,6 +71,7 @@
                 "unreachable": "#fcf5e6",
                 "unreachable.background": "#f2c6ac",
                 "unreachable.border": "#a54a4a",
+                "created": "#4a5e2a",
                 "players": [
                     {
                         "cursor": "#70553a",
