@@ -69,6 +69,8 @@
                 "error": "#c48484",
                 "error.background": "#ebd4c8",
                 "error.border": "#a54a4a",
+                "deleted.background": "#ebd4c8",
+                "deleted.border": "#a54a4a",
                 "unreachable": "#fcf5e6",
                 "unreachable.background": "#f2c6ac",
                 "unreachable.border": "#a54a4a",
