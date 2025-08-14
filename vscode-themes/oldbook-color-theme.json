@@ -38,7 +38,7 @@
         "editorIndentGuide.background": "#9a8f7d33",
         "editorIndentGuide.activeBackground": "#58504080",
 
-        "editorGroup.border": "#00000000",
+        "editorGroup.border": "#9a8f7d40",
         "editorGroupHeader.tabsBackground": "#f0e8d9",
 
         "editorHoverWidget.background": "#ede4d2",
