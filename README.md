@@ -45,6 +45,9 @@ colorscheme oldbook
 
 ### ZED
 
+### VS Code
+Choose between Oldbook light & Oldbook dark into your theme list
+
 #### From extensions
 
 1. Open Zed.

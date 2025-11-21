@@ -35,8 +35,8 @@
         "editor.selectionBackground": "#e4d8bA",
         "editorCursor.foreground": "#585040",
         "editorWhitespace.foreground": "#9a8f7d",
-        "editorIndentGuide.background": "#9a8f7d33",
-        "editorIndentGuide.activeBackground": "#58504080",
+        "editorIndentGuide.background1": "#9a8f7d33",
+        "editorIndentGuide.activeBackground1": "#58504080",
 
         "editorGroup.border": "#9a8f7d40",
         "editorGroupHeader.tabsBackground": "#f0e8d9",
