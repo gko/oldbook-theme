@@ -118,6 +118,8 @@
         "tab.unfocusedActiveBorderTop": "#00000000",
 
         "editorLink.activeForeground": "#b08a5a",
+        "textLink.foreground": "#b08a5a",
+        "textLink.activeForeground": "#d6c9b2",
 
         "titleBar.activeBackground": "#1e1a15",
         "titleBar.activeForeground": "#d6c9b2",
