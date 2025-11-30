@@ -121,6 +121,12 @@
         "textLink.foreground": "#b08a5a",
         "textLink.activeForeground": "#d6c9b2",
 
+        "menu.background": "#262018",
+        "menu.foreground": "#d6c9b2",
+        "menu.selectionBackground": "#3a2f25",
+        "menu.selectionForeground": "#d6c9b2",
+        "menu.separatorBackground": "#5a4f3f",
+
         "titleBar.activeBackground": "#1e1a15",
         "titleBar.activeForeground": "#d6c9b2",
         "titleBar.inactiveBackground": "#1e1a15",
