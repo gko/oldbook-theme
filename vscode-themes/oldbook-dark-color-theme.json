@@ -102,9 +102,9 @@
         "sideBarSectionHeader.background": "#1e1a15",
         "sideBar.border": "#00000000",
 
-        "statusBar.background": "#262018",
-        "statusBar.foreground": "#d6c9b2",
-        "statusBar.noFolderBackground": "#262018",
+        "statusBar.background": "#d6c9b2",
+        "statusBar.foreground": "#1b1712",
+        "statusBar.noFolderBackground": "#d6c9b2",
         "statusBar.debuggingBackground": "#b08a5a",
         "statusBar.debuggingForeground": "#1b1712",
         "statusBar.border": "#00000000",
