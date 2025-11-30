@@ -1,12 +1,20 @@
 # Oldbook theme
 
-[![Install from VSCode Marketplace](https://img.shields.io/badge/Install%20from-VSCode%20Marketplace-9a8f7d?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=konstantin.oldbook-theme) [![Install in Zed](https://img.shields.io/badge/Install%20in-Zed-ede4d2?logo=zed&style=for-the-badge&logoColor=583b40)](https://zed.dev/extensions/oldbook-theme)
+[![Install from VSCode Marketplace](https://img.shields.io/badge/Install%20from-VSCode%20Marketplace-9a8f7d?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=konstantin.oldbook-theme) [![Open VSX](https://img.shields.io/open-vsx/v/konstantin/oldbook-theme?color=70553a&style=for-the-badge)](https://open-vsx.org/extension/konstantin/oldbook-theme) [![Install in Zed](https://img.shields.io/badge/Install%20in-Zed-ede4d2?logo=zed&style=for-the-badge&logoColor=583b40)](https://zed.dev/extensions/oldbook-theme)
 
-A colorscheme inspired by the feel of aged books. Minimal, soft, and readable.
+A colorscheme inspired by the feel of aged books. Minimal, soft, and readable. Now with a dark mode for VS Code!
 
-### VSCODE
+### VS Code / Cursor / Antigravity
 
-![vscode](/images/screenshot-vscode.jpg)
+This theme is fully compatible with VS Code, Cursor, and Antigravity.
+
+#### Light
+
+![vscode](/images/screenshot-vscode.webp)
+
+#### Dark
+
+![vscode dark](/images/screenshot-vscode-dark.webp)
 
 ### VIM / NVIM
 ![vim](/images/screenshot.jpg)
@@ -45,9 +53,6 @@ colorscheme oldbook
 
 ### ZED
 
-### VS Code
-Choose between Oldbook light & Oldbook dark into your theme list
-
 #### From extensions
 
 1. Open Zed.
@@ -59,3 +64,9 @@ Choose between Oldbook light & Oldbook dark into your theme list
 
 1. Download [oldbook-color-theme.json](./themes/oldbook-color-theme.json)
 2. Put into `~/.config/zed/themes/`
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Thanks to [@kmartin91](https://github.com/kmartin91) for the initial implementation of the dark mode.
