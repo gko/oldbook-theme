@@ -25,10 +25,10 @@
         "editor.foreground": "#d6c9b2",
 
         "editorBracketHighlight.foreground1": "#d6c9b2",
-        "editorBracketHighlight.foreground2": "#b08a5a",
-        "editorBracketHighlight.foreground3": "#a48d70",
-        "editorBracketHighlight.foreground4": "#867a67",
-        "editorBracketHighlight.foreground5": "#5a4f3f",
+        "editorBracketHighlight.foreground2": "#d6c9b2",
+        "editorBracketHighlight.foreground3": "#d6c9b2",
+        "editorBracketHighlight.foreground4": "#d6c9b2",
+        "editorBracketHighlight.foreground5": "#d6c9b2",
         "editorBracketHighlight.foreground6": "#d6c9b2",
 
         "editor.lineHighlightBackground": "#262018",
