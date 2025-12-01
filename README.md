@@ -1,6 +1,6 @@
 # Oldbook theme
 
-[![Install from VSCode Marketplace](https://img.shields.io/badge/Install%20from-VSCode%20Marketplace-9a8f7d?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=konstantin.oldbook-theme) [![Install from Open VSX](https://img.shields.io/open-vsx/v/konstantin/oldbook-theme?color=70553a&style=for-the-badge)](https://open-vsx.org/extension/konstantin/oldbook-theme) [![Install in Zed](https://img.shields.io/badge/Install%20in-Zed-ede4d2?logo=zed&style=for-the-badge&logoColor=583b40)](https://zed.dev/extensions/oldbook-theme)
+[![Install from VSCode Marketplace](https://img.shields.io/badge/Install%20from-VSCode%20Marketplace-9a8f7d?logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=konstantin.oldbook-theme) [![Install from Open VSX](https://img.shields.io/badge/Install%20from-Open%20VSX-9a8f7d?color=70553a&style=for-the-badge)](https://open-vsx.org/extension/konstantin/oldbook-theme) [![Install in Zed](https://img.shields.io/badge/Install%20in-Zed-ede4d2?logo=zed&style=for-the-badge&logoColor=583b40)](https://zed.dev/extensions/oldbook-theme)
 
 A colorscheme inspired by the feel of aged books. Minimal, soft, and readable. Now with a dark mode for VS Code!
 
