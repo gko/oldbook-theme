@@ -30,9 +30,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "Old Book",
+                "id": "Old Book",
+                "label": "Old Book Light",
                 "uiTheme": "vs",
-                "path": "./vscode-themes/oldbook-color-theme.json"
+                "path": "./vscode-themes/oldbook-light-color-theme.json"
+            },
+            {
+                "label": "Old Book Dark",
+                "uiTheme": "vs-dark",
+                "path": "./vscode-themes/oldbook-dark-color-theme.json"
             }
         ]
     },
